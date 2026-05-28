@@ -54,7 +54,7 @@
 ---
 
 ## 🤝 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachinu25/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-F59E0B?style=flat-square&logo=leetcode&logoColor=111)](https://leetcode.com/u/Sachinu25/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=111)](https://www.hackerrank.com/profile/sachinu037)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sachinu037@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachinu25/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-F59E0B?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Sachinu25/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/sachinu037)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sachinu037@gmail.com)
