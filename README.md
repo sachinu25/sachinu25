@@ -74,9 +74,9 @@ I’m **Sachin Upadhyay**, a **Machine Learning Engineer | Data Analyst | Data E
     <td width="42%" valign="top">
 
 ### Quick Facts
-- 📍 Location: India <!-- TODO: update if needed -->
+- 📍 Location: Raipur (CG) India <!-- TODO: update if needed -->
 - 💼 Open to: Internships / Full-time roles <!-- TODO: update -->
-- 🧩 Interests: ML systems, BI, pipelines, NLP  
+- 🧩 Interests: ML systems, POwer BI, pipelines, NLP  
 - 🛠️ Tools I love: Python, SQL, Power BI, Git
 
     </td>
