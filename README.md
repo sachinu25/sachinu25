@@ -85,7 +85,7 @@ I’m **Sachin Upadhyay**, a **Machine Learning Engineer | Data Analyst | Data E
 
 ---
 
-## 💪 Technical Stack (Clean + Recruiter-Friendly)
+## 💪 Technical Stack 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-0A2540?style=for-the-badge&logo=python&logoColor=FDE047" />
